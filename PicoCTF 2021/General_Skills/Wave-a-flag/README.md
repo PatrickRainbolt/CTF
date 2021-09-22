@@ -14,7 +14,7 @@ warm		100%[==================================================================>] 
 
 
 # Examine File:
-Using "file" in Linux to determine what type of file I downloaded. It appears to be a "ELF 64-bit LSB" files.
+Using "file" in Linux to determine what type of file I downloaded and it appears to be a "ELF 64-bit LSB" files.
 ```
 > file warm 
 warm: ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=985d9586d46e8651ab66c2fbb5a5473492466aa3, with debug_info, not stripped
