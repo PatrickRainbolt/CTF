@@ -16,7 +16,7 @@ e: 65537
 
 
 # Now break the "n" value into its factors.
-Open [factordb.com](http://factordb.com) and paste the value of "n" into the Fatorize field and then press the "Factorize!" button. When the factors appear you can right click each factor and open in a new tab. Then the value in the Factorize window you can copy and paste.
+Open [factordb.com](http://factordb.com) and paste the value of "n" into the Fatorize field and then press the "Factorize!" button. When the factors appear you can right click each factor to open it in a new tab. Then the full value of the Factorize window is available to copy and paste.
 
 ```
 left_value: 1593021310640923782355996681284584012117
