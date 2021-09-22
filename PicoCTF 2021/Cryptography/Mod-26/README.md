@@ -2,7 +2,7 @@
 ![Mod-26](https://user-images.githubusercontent.com/38919321/134425073-4ff2f93e-ddec-426a-b0a4-e52c60cfce7c.png)
 
 
-# Wrote a simple Python script to convert data into ROT13 format
+# Wrote a Python script to convert data into ROT13 format
 ```
 > cat roth.py 
 #!/usr/bin/env python
