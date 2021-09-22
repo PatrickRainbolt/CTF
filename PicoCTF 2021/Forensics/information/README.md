@@ -1,29 +1,35 @@
 # PicoCTF 2021: 
 ![information](https://user-images.githubusercontent.com/38919321/134426194-a8ae603c-2121-4279-8f06-1dec79afeb2a.png)
 
-# Photo of a cat:
+
+# Photo of a cat
 [cat.jpg](https://mercury.picoctf.net/static/7cf6a33f90deeeac5c73407a1bdc99b6/cat.jpg)
 
 
-# Get "cat.jpg" file using WGET in Linux:
+# WGET File
+Using "wget" in Linux to download the "cat.jpg" file
 ```
 > wget "https://mercury.picoctf.net/static/7cf6a33f90deeeac5c73407a1bdc99b6/cat.jpg"
-cat.jpg		100%[==================================================================>] 857.55K   854KB/s    in 1.0s    
+cat.jpg		100%[==================================================================>] 857.55K    
 ```
 
-# Using Eye of GNOME to view the cat.jpg file. Nothing in the image was useful.
+
+# Eye of GNOME
+Using this to view the "cat.jpg" file in Linux. Nothing in the image was useful
 ```
 > eog cat.jpg &
 ```
 
 
-# Using Linus "strings" routine but found nothing using strings was useful
+# Strings
+Using Linux "strings" to search for useful ASCII data but found nothing useful
 ```
 > strings cat.jpg | grep pico
 ```
 
 
-# Decided to install ExifTool, a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files. 
+# Install ExifToo 
+Decided to install ExifTool, a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files. 
 
 ```
 > sudo apt install exiftool
@@ -63,13 +69,15 @@ Image Size                      : 2560x1598
 Megapixels                      : 4.1
 ```
 
-# I am guessing it is one of these but they failed submission.
+# Found data
+I think the data is stored in one of these two Meta data fields but they failed submission.
 ```
 Current IPTC Digest             : 7a78f3d9cfb1ce42ab5a3aa30573d617
 License                         : cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9
 ```
 
-# I started to think this data was Base64 encoded. I wrote a Base64 Decoder in Python.
+# Base64 Decode
+I also noticed the data was in a Base64 format. So I wrote a Base64 Decoder in Python to test my theory.
 ```
 > cat b64decode.py 
 #!/usr/bin/env python
@@ -80,7 +88,8 @@ decoded = base64.b64decode(sys.argv[1])
 print "Decoded: [" + decoded + "]"
 ```
 
-# I tested the two fields with my decoder and got the following results.
+# Found Results
+I tested the two fields with my decoder and got the following results.
 ```
 > ./b64decode.py "7a78f3d9cfb1ce42ab5a3aa30573d617"
 Decoded: [���w}q��q�6i�Zݦ�Ӟ�w�{]
@@ -89,7 +98,7 @@ Decoded: [picoCTF{the_m3tadata_1s_modified}]
 ```
 
 
-# FLAG: Mind your Ps and Qs
+# FLAG: Information
 ```
 picoCTF{the_m3tadata_1s_modified}
 ```
