@@ -9,7 +9,7 @@
 Using "wget" on Linux to download the file. 
 ```
 > wget "https://mercury.picoctf.net/static/a00f554b16385d9970dae424f66ee1ab/warm"
-warm		100%[==================================================================>]  10.68K  --.-KB/s    in 0s      
+warm		100%[==================================================================>]  10.68K
 ```
 
 
