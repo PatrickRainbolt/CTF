@@ -1,4 +1,4 @@
-# PicoCTF 2021: 
+# PicoCTF GYM: 
 • [static](https://mercury.picoctf.net/static/ff4e569d6b49b92d090796d4631a2577/static)
 
 • [BASH-script](https://mercury.picoctf.net/static/ff4e569d6b49b92d090796d4631a2577/ltdis.sh)
