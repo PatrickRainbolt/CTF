@@ -1,4 +1,4 @@
-# PicoCTF 2021: 
+# PicoCTF GYM: 
 ![Nice-netcat](https://user-images.githubusercontent.com/38919321/134429037-a6404c1a-69f4-4820-975c-bed25c18531f.png)
 
 
