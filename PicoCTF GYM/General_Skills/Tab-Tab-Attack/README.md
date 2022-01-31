@@ -1,10 +1,6 @@
 # PicoCTF GYM: 
 ![Screenshot from 2022-01-31 15-47-24](https://user-images.githubusercontent.com/38919321/151870580-79db87bf-d124-4b42-a192-2074d0afe70c.png)
 
-
-
-• [Addadshashanammu.zip](https://mercury.picoctf.net/static/3afd18a65e42b80526aa87f9766c588b/Addadshashanammu.zip)
-
 # Downloading File:
 Using "wget" on Linux to download the file. 
 ```
