@@ -1,4 +1,4 @@
-# PicoCTF 2021: 
+# PicoCTF GYM: 
 ![Transformation](https://user-images.githubusercontent.com/38919321/134433481-7dc1b922-254b-4f82-b82b-9957f9a2b85b.png)
 
 
