@@ -8,7 +8,6 @@ It asked to conver 43 in Decimal to Binary or Base 2. I used linux "echo" with "
 101010
 
 ```
-
 # Putting it all Together:
 Now to put the "p" in a flag format.
 ```
@@ -16,7 +15,6 @@ Now to put the "p" in a flag format.
 picoCTF{101010}
 
 ```
-
 # FLAG: 2Warm
 ```
 picoCTF{101010}
