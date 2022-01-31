@@ -49,7 +49,7 @@ Using STRINGS and GREP to see if the flag is in clear text.
 
 ```
 
-# FLAG: 
+# FLAG: Tab, Tab, Attack
 ```
 picoCTF{l3v3l_up!_t4k3_4_r35t!_d32e018c}
 ```
