@@ -1,5 +1,6 @@
 # PicoCTF GYM: 
-![Screenshot from 2022-01-31 17-07-53](https://user-images.githubusercontent.com/38919321/151881145-aa27c1ba-9288-4724-be7f-5f6d379aee92.png)
+![Screenshot from 2022-01-31 17-08-49](https://user-images.githubusercontent.com/38919321/151881283-af84bc58-c1b3-482f-9644-71ca99f38990.png)
+
 
 # Converting To ASCII:
 It asked to conver hex 0x70 to ASCII code. I used "xxd" with "-r" tells it to convert hex to ascii as opposed to its normal mode 
