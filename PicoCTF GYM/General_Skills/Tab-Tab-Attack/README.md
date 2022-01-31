@@ -1,4 +1,5 @@
 # PicoCTF GYM: 
+![Screenshot from 2022-01-31 15-47-24](https://user-images.githubusercontent.com/38919321/151870580-79db87bf-d124-4b42-a192-2074d0afe70c.png)
 
 
 
@@ -16,16 +17,6 @@ Addadshashanammu.zip     100%[==================================================
 After using wget to download the Archive file I am using Unzip to extract the files. 
 ```
 > unzip Addadshashanammu.zip 
-
-
-```
-
-
-# Greping for the flag:
-I used grep to search through both files and grab the flag. 
-```
-> grep picoCTF static.ltdis.*
-static.ltdis.strings.txt:   1020 picoCTF{d15a5m_t34s3r_ccb2b43e}
 
 Archive:  Addadshashanammu.zip
    creating: Addadshashanammu/
