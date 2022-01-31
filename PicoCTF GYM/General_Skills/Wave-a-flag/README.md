@@ -1,4 +1,4 @@
-# PicoCTF 2021: 
+# PicoCTF GYM: 
 ![Wave-a-flag](https://user-images.githubusercontent.com/38919321/134432565-2edcf4b8-03e9-4cc2-831a-aed14301087e.png)
 
 
