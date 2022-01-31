@@ -37,7 +37,6 @@ I used CD and tab completion to get to the correct directory.
 
 ```
 
-
 # What type of file:
 I wanted to check they file type, to see where to go next.
 ```
