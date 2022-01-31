@@ -1,6 +1,7 @@
 # PicoCTF GYM: 
-• [static](https://mercury.picoctf.net/static/ff4e569d6b49b92d090796d4631a2577/static)
+![Screenshot from 2022-01-31 15-20-43](https://user-images.githubusercontent.com/38919321/151867123-ad044e4f-b3ff-4a1d-84e4-5c6383a4b102.png)
 
+• [static](https://mercury.picoctf.net/static/ff4e569d6b49b92d090796d4631a2577/static)
 • [BASH-script](https://mercury.picoctf.net/static/ff4e569d6b49b92d090796d4631a2577/ltdis.sh)
 
 
@@ -11,7 +12,7 @@ Using "wget" on Linux to download the file.
 static          100%[==================================================================>]   8.2K      
 
 > wget "https://mercury.picoctf.net/static/ff4e569d6b49b92d090796d4631a2577/ltdis.sh"
-ltdis.sh	       100%[==================================================================>]  785
+ltdis.sh        100%[==================================================================>]  785
 
 ```
 
