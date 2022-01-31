@@ -1,4 +1,4 @@
-# PicoCTF 2021: 
+# PicoCTF GYM: 
 ![Obedient-cat](https://user-images.githubusercontent.com/38919321/134430625-45351525-8073-4195-9fea-8908c29e2c49.png)
 
 
