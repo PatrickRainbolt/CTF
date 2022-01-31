@@ -82,7 +82,7 @@ static.ltdis.strings.txt:   1020 picoCTF{d15a5m_t34s3r_ccb2b43e}
 ```
 
 
-# FLAG: Nice Netcat
+# FLAG: Static ain't always noise
 ```
 picoCTF{d15a5m_t34s3r_ccb2b43e}
 ```
