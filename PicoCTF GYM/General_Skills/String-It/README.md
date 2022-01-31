@@ -1,5 +1,5 @@
 # PicoCTF GYM: 
-
+![Screenshot from 2022-01-31 17-38-12](https://user-images.githubusercontent.com/38919321/151884831-2be8af0f-afa7-4416-aa65-b094118a5f2f.png)
 
 # Downloading File:
 Using "wget" on Linux to download the file. 
@@ -8,7 +8,6 @@ Using "wget" on Linux to download the file.
 strings          100%[==================================================================>]   758K      
 
 ```
-
 
 # File Type:
 I checked to see what file type.
