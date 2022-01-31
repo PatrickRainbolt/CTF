@@ -1,5 +1,5 @@
 # PicoCTF GYM: 
-
+![Screenshot from 2022-01-31 16-45-32](https://user-images.githubusercontent.com/38919321/151878283-72bcb04d-e36a-4d55-bc46-beadd430661c.png)
 
 # Server:
 I started the server from the CTF page. 
