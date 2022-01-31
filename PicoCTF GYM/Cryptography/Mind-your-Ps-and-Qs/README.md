@@ -1,4 +1,4 @@
-# PicoCTF 2021: 
+# PicoCTF GYM: 
 ![Mind-your-Ps-and-Qs](https://user-images.githubusercontent.com/38919321/134411085-5336edc8-4d4b-42cf-8b7b-4af4b8514b92.png)
 
 
