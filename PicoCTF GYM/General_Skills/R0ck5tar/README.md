@@ -84,8 +84,6 @@ picoCTF{BONJOVI}
 
 ```
 
-
-
 # FLAG: 1_wanna_b3_a_r0ck5tar
 ```
 picoCTF{BONJOVI}
