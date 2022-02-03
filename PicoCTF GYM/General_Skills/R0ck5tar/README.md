@@ -79,7 +79,7 @@ Bring on the rock!
 # Converting ASCII to a String
 There are many ways to do this so I created a quick command line entry.
 ```
-echo "picoCTF{$(echo "66 79 78 74 79 86 73" | awk '{ for(i=1;i<=NF;i++) printf("%c",$i); print "";  }')}"
+> echo "picoCTF{$(echo "66 79 78 74 79 86 73" | awk '{ for(i=1;i<=NF;i++) printf("%c",$i); print "";  }')}"
 picoCTF{BONJOVI}
 
 ```
