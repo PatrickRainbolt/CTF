@@ -51,7 +51,8 @@ Ther is a lot of information about the language at: "https://codewithrockstar.co
 # Translating the Song Lyrics to Python Code:
 Here is a side by side break down of the Song lyric to Python code.
 
-![Screenshot from 2022-02-03 15-32-56](https://user-images.githubusercontent.com/38919321/152431144-ffdb9078-1395-4c76-9804-f4daac94d677.png)
+![Screenshot from 2022-02-03 15-32-56](https://user-images.githubusercontent.com/38919321/152431434-4e56fc15-54c8-4af2-b72b-a3d493a58af2.png)
+
 
 # Running the Python code
 I ran the code after saving it to "rockstar.py". 
