@@ -48,7 +48,6 @@ Break it down
 Ther is a lot of information about the language at: "https://codewithrockstar.com/docs".
 
 
-
 # Translating the Song Lyrics to Python Code:
 Here is a side by side break down of the Song lyric to Python code.
 
@@ -56,7 +55,7 @@ Here is a side by side break down of the Song lyric to Python code.
 
 
 # Running the Python code
-I ran the code after saving it to "rockstar.py". 
+I ran the code after saving it to "rockstar.py": 
 - The first if ask: if the input is equal to 10. So you enter 10 and press Enter.
 - The second if ask: if input minus 171 equal 0. So you enter 171 and press Enter.
 - The following data is ASCII values that need to be converted to a string.
