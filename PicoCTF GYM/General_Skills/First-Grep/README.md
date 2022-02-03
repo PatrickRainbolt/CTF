@@ -1,8 +1,5 @@
 # PicoCTF GYM: 
-
-
-
-
+![Screenshot from 2022-02-03 17-00-23](https://user-images.githubusercontent.com/38919321/152437193-dc10b375-ebda-4c07-92c2-e58a43417c03.png)
 
 # Downloading File:
 Using "wget" on Linux to download the file. 
