@@ -18,7 +18,7 @@ picoCTF{l3arn_th3_r0p35}
 ```
 
 
-# FLAG: what's a net cat
+# FLAG: Bases
 ```
 picoCTF{l3arn_th3_r0p35}
 
