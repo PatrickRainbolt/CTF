@@ -1,6 +1,5 @@
 # PicoCTF GYM: 
-![Screenshot from 2022-02-03 15-32-56](https://user-images.githubusercontent.com/38919321/152430917-0869b120-d5af-4d1a-b101-6a91a222d15c.png)
-
+![Screenshot from 2022-02-03 16-23-05](https://user-images.githubusercontent.com/38919321/152431099-64c896d1-cd42-4df3-8d71-3e4649aca9c4.png)
 
 # Downloading File:
 Using "wget" on Linux to download the file. 
@@ -52,10 +51,7 @@ Ther is a lot of information about the language at: "https://codewithrockstar.co
 # Translating the Song Lyrics to Python Code:
 Here is a side by side break down of the Song lyric to Python code.
 
-
-
-
-
+![Screenshot from 2022-02-03 15-32-56](https://user-images.githubusercontent.com/38919321/152431144-ffdb9078-1395-4c76-9804-f4daac94d677.png)
 
 # Running the Python code
 I ran the code after saving it to "rockstar.py". 
