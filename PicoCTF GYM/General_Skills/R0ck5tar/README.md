@@ -48,6 +48,7 @@ Break it down
 Ther is a lot of information about the language at: "https://codewithrockstar.com/docs".
 
 
+
 # Translating the Song Lyrics to Python Code:
 Here is a side by side break down of the Song lyric to Python code.
 
