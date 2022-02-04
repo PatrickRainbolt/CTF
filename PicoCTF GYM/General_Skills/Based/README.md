@@ -1,10 +1,5 @@
 # PicoCTF GYM: 
-
-
-
-
-
-
+![Screenshot from 2022-02-04 15-37-07](https://user-images.githubusercontent.com/38919321/152600003-b1445fab-bc47-4527-afad-3f2ce84ded3f.png)
 
 # Netcat Away:
 I had to use 'nc' or Netcat to remotely connect to server "jupiter.challenges.picoctf.org" on port "29221". It asked to convert data to continue:
@@ -28,9 +23,6 @@ Please give me the 6c696d65 as a word.
 You've beaten the challenge
 Flag: picoCTF{learning_about_converting_values_00a975ff}
 ```
-
-
-
 
 # FLAG: Based
 ```
